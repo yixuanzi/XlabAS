@@ -1,0 +1,8 @@
+debug 0,1 debug switch
+vid 1,0 vulns incress model:auto manual
+model 1,2,3,4 study,ctf,work,all
+adminlog 0,1 print debug only admin
+loginsqli 0,1 status for sqli in login page
+ultrav 0,1 越权漏洞 http://127.0.0.1/xlab/vulnerabilities/vulns/vact.php?act=detail&vid=HTJC-SL20160109-01
+backdoor 0,1 后门漏洞 http://127.0.0.1/xlab/vulnerabilities/vulns/vact.php?act=detail&vid=HTJC-SL20160109-01
+sectf 0,1 security ctf
